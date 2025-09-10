@@ -1,4 +1,4 @@
-# NvLino
+# nvim.lino
 
 Git repo to bootstrap process for neovim environment setup. NvLino comes with lsp servers for c++, django, python, react, css, html, java, javascript and lua. It comes with auto-complete, fuzzy finder, harpoon, file searching, syntax highlighting, expanded vim motions and more.
 
